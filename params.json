@@ -1,0 +1,141 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Obsluhoval jsem anglického krále",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-29T14:57:31.163Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_001.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_002.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_003.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_004.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_005.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_006.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_007.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_008.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_009.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_010.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "obsluhoval_jsem_anglickeho_krale_011.md",
+        "xhtml": "obsluhoval_jsem_anglickeho_krale_011.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/obsluhoval_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/kocka_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_obsluhoval_jsem__fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis-bez1radku--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "Normal",
+      "char-style-override-1",
+      "char-style-override-3",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hrabal-obsluhoval-jsem-ang-krale"
+    },
+    "generatedAt": 1632927451527
+  }
+}

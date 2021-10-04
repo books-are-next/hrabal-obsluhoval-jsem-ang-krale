@@ -19,10 +19,10 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
-      "blockquote": "",
+      "brAfter": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 ",
+      "blockquote": "MLP-dopis-bez1radku--I ",
       "figure": "",
-      "em": "",
+      "em": "MLP-dopis-bez1radku--I ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -140,7 +140,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-04T14:47:01.234Z"
+      "modified": "2021-10-04T15:24:53.684Z"
     },
     "chapters": [
       {
@@ -271,6 +271,6 @@
       "user": "books-are-next",
       "repo": "hrabal-obsluhoval-jsem-ang-krale"
     },
-    "generatedAt": 1633358821647
+    "generatedAt": 1633361094142
   }
 }

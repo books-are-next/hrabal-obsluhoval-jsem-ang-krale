@@ -1,0 +1,248 @@
+{
+  "author": "Bohumil Hrabal",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-ad3b7e7",
+  "languagecode": "cs",
+  "modified": "2021-09-29T14:57:31.163Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Obsluhoval jsem anglického krále",
+  "revision": "ad3b7e7",
+  "generatedAt": {
+    "date": "Mon Oct 04 2021 15:31:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1633361506077
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 143,
+      "chars": 947,
+      "ideas": 19,
+      "role": "colophon",
+      "order": null,
+      "next": "obsluhoval_jsem_anglickeho_krale_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "obsluhoval_jsem_anglickeho_krale_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "obsluhoval_jsem_anglickeho_krale_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "obsluhoval_jsem_anglickeho_krale_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "obsluhoval_jsem_anglickeho_krale_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "obsluhoval_jsem_anglickeho_krale_001.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "obsluhoval_jsem_anglickeho_krale_003.html",
+      "words": 6,
+      "chars": 45,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "obsluhoval_jsem_anglickeho_krale_002.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sklenice grenadýny",
+      "file": "obsluhoval_jsem_anglickeho_krale_005.html",
+      "words": 11555,
+      "chars": 62948,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "obsluhoval_jsem_anglickeho_krale_003.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sklenice grenadýny",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hotel Tichota",
+      "file": "obsluhoval_jsem_anglickeho_krale_006.html",
+      "words": 10925,
+      "chars": 61922,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 4,
+      "prev": "obsluhoval_jsem_anglickeho_krale_005.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hotel Tichota",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obsluhoval jsem anglického krále",
+      "file": "obsluhoval_jsem_anglickeho_krale_007.html",
+      "words": 14117,
+      "chars": 78651,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 5,
+      "prev": "obsluhoval_jsem_anglickeho_krale_006.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obsluhoval jsem anglického krále",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A hlavu jsem už nenašel",
+      "file": "obsluhoval_jsem_anglickeho_krale_008.html",
+      "words": 12245,
+      "chars": 69314,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 6,
+      "prev": "obsluhoval_jsem_anglickeho_krale_007.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A hlavu jsem už nenašel",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kterak jsem se stal milionářem",
+      "file": "obsluhoval_jsem_anglickeho_krale_009.html",
+      "words": 18679,
+      "chars": 105389,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 7,
+      "prev": "obsluhoval_jsem_anglickeho_krale_008.html",
+      "next": "obsluhoval_jsem_anglickeho_krale_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kterak jsem se stal milionářem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "obsluhoval_jsem_anglickeho_krale_011.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 8,
+      "prev": "obsluhoval_jsem_anglickeho_krale_009.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "obsluhoval_jsem_anglickeho_krale_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 67670,
+      "chars": 379216,
+      "ideas": 73
+    },
+    "chapters": {
+      "words": 67527,
+      "chars": 378269,
+      "ideas": 54
+    }
+  }
+}

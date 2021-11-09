@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-ad3b7e7';
+const CACHE = 'cache-1882941';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./obsluhoval_jsem_anglickeho_krale_001.html","./obsluhoval_jsem_anglickeho_krale_002.html","./obsluhoval_jsem_anglickeho_krale_003.html","./obsluhoval_jsem_anglickeho_krale_005.html","./obsluhoval_jsem_anglickeho_krale_006.html","./obsluhoval_jsem_anglickeho_krale_007.html","./obsluhoval_jsem_anglickeho_krale_008.html","./obsluhoval_jsem_anglickeho_krale_009.html","./obsluhoval_jsem_anglickeho_krale_011.html","./resources.html","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/index.xml","./resources/kocka_fmt.png","./resources/obalka_obsluhoval_jsem__fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./obsluhoval_jsem_anglickeho_krale_001.html","./obsluhoval_jsem_anglickeho_krale_002.html","./obsluhoval_jsem_anglickeho_krale_003.html","./obsluhoval_jsem_anglickeho_krale_005.html","./obsluhoval_jsem_anglickeho_krale_006.html","./obsluhoval_jsem_anglickeho_krale_007.html","./obsluhoval_jsem_anglickeho_krale_008.html","./obsluhoval_jsem_anglickeho_krale_009.html","./obsluhoval_jsem_anglickeho_krale_011.html","./resources.html","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/index.xml","./resources/kocka_fmt.png","./resources/upoutavka_eknihy_fmt.png","./resources/obalka_obsluhoval_jsem__fmt.png","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {

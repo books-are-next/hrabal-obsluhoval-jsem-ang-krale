@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Obsluhoval jsem anglického krále",
@@ -6,7 +7,9 @@
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-29T14:57:31.163Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -32,7 +35,7 @@
         "filename": "obsluhoval_jsem_anglickeho_krale_001.md",
         "xhtml": "obsluhoval_jsem_anglickeho_krale_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -274,3 +277,4 @@
     "generatedAt": 1633358821647
   }
 }
+

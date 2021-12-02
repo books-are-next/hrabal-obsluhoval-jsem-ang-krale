@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-29T14:57:31.163Z'
   languageCode: cs
-chapters:
-  - obsluhoval_jsem_anglickeho_krale_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - obsluhoval_jsem_anglickeho_krale_002.html
   - obsluhoval_jsem_anglickeho_krale_003.html
   - obsluhoval_jsem_anglickeho_krale_005.html
@@ -19,6 +20,7 @@ chapters:
   - obsluhoval_jsem_anglickeho_krale_008.html
   - obsluhoval_jsem_anglickeho_krale_009.html
   - obsluhoval_jsem_anglickeho_krale_011.html
+  - colophon.html
 tocBase:
   - link: obsluhoval_jsem_anglickeho_krale_005.html
     title: Sklenice grenadýny
@@ -36,5 +38,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

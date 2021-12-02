@@ -1,114 +1,66 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-638ae17",
+  "edition": "beletrie",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-4ec9003",
   "languagecode": "cs",
   "modified": "2021-09-29T14:57:31.163Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Obsluhoval jsem anglického krále",
-  "revision": "638ae17",
+  "revision": "4ec9003",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:06:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378384499
+    "date": "Thu Dec 02 2021 10:12:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638439952943
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 143,
-      "chars": 947,
-      "ideas": 19,
-      "role": "colophon",
-      "order": null,
-      "next": "obsluhoval_jsem_anglickeho_krale_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "obsluhoval_jsem_anglickeho_krale_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "obsluhoval_jsem_anglickeho_krale_001.html",
+      "title": "Obsluhoval jsem anglického krále",
+      "file": "obsluhoval_jsem_anglickeho_krale_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "obsluhoval_jsem_anglickeho_krale_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "obsluhoval_jsem_anglickeho_krale_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "obsluhoval_jsem_anglickeho_krale_001.html",
       "next": "obsluhoval_jsem_anglickeho_krale_003.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_003.html",
       "words": 6,
       "chars": 45,
       "ideas": 3,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "obsluhoval_jsem_anglickeho_krale_002.html",
       "next": "obsluhoval_jsem_anglickeho_krale_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Sklenice grenadýny",
+      "title": "Sklenice grenadýny • Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_005.html",
       "words": 11555,
       "chars": 62948,
       "ideas": 7,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "obsluhoval_jsem_anglickeho_krale_003.html",
       "next": "obsluhoval_jsem_anglickeho_krale_006.html",
       "toc": [
@@ -116,19 +68,19 @@
           "index": 0,
           "level": 1,
           "name": "Sklenice grenadýny",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hotel Tichota",
+      "title": "Hotel Tichota • Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_006.html",
       "words": 10925,
       "chars": 61922,
       "ideas": 8,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "obsluhoval_jsem_anglickeho_krale_005.html",
       "next": "obsluhoval_jsem_anglickeho_krale_007.html",
       "toc": [
@@ -136,19 +88,19 @@
           "index": 0,
           "level": 1,
           "name": "Hotel Tichota",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Obsluhoval jsem anglického krále",
+      "title": "Obsluhoval jsem anglického krále • Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_007.html",
       "words": 14117,
       "chars": 78651,
       "ideas": 9,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "obsluhoval_jsem_anglickeho_krale_006.html",
       "next": "obsluhoval_jsem_anglickeho_krale_008.html",
       "toc": [
@@ -156,19 +108,19 @@
           "index": 0,
           "level": 1,
           "name": "Obsluhoval jsem anglického krále",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "A hlavu jsem už nenašel",
+      "title": "A hlavu jsem už nenašel • Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_008.html",
       "words": 12245,
       "chars": 69314,
       "ideas": 10,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "obsluhoval_jsem_anglickeho_krale_007.html",
       "next": "obsluhoval_jsem_anglickeho_krale_009.html",
       "toc": [
@@ -176,19 +128,19 @@
           "index": 0,
           "level": 1,
           "name": "A hlavu jsem už nenašel",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kterak jsem se stal milionářem",
+      "title": "Kterak jsem se stal milionářem • Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_009.html",
-      "words": 18679,
+      "words": 18676,
       "chars": 105389,
-      "ideas": 17,
+      "ideas": 14,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "obsluhoval_jsem_anglickeho_krale_008.html",
       "next": "obsluhoval_jsem_anglickeho_krale_011.html",
       "toc": [
@@ -196,53 +148,62 @@
           "index": 0,
           "level": 1,
           "name": "Kterak jsem se stal milionářem",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_011.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "obsluhoval_jsem_anglickeho_krale_009.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Obsluhoval jsem anglického krále",
+      "file": "colophon.html",
+      "words": 143,
+      "chars": 947,
+      "ideas": 19,
+      "role": "colophon",
       "order": null,
-      "next": "obsluhoval_jsem_anglickeho_krale_001.html",
-      "toc": []
+      "prev": "obsluhoval_jsem_anglickeho_krale_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 67670,
-      "chars": 379216,
-      "ideas": 73
+      "words": 67675,
+      "chars": 379273,
+      "ideas": 74
     },
     "chapters": {
-      "words": 67527,
+      "words": 67524,
       "chars": 378269,
-      "ideas": 54
+      "ideas": 51
     }
   }
 }

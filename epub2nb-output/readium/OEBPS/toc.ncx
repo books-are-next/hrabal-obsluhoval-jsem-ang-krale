@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Obsluhoval jsem anglického krále</text>
+  </docTitle>
+  <docAuthor>
+    <text>Bohumil Hrabal</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Sklenice grenadýny</text>
+      </navLabel>
+      <content src="Text/obsluhoval_jsem_anglickeho_krale_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Hotel Tichota</text>
+      </navLabel>
+      <content src="Text/obsluhoval_jsem_anglickeho_krale_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Obsluhoval jsem anglického krále</text>
+      </navLabel>
+      <content src="Text/obsluhoval_jsem_anglickeho_krale_007.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>A hlavu jsem už nenašel</text>
+      </navLabel>
+      <content src="Text/obsluhoval_jsem_anglickeho_krale_008.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Kterak jsem se stal milionářem</text>
+      </navLabel>
+      <content src="Text/obsluhoval_jsem_anglickeho_krale_009.xhtml#toc_marker-5"/>
+    </navPoint>
+  </navMap>
+</ncx>

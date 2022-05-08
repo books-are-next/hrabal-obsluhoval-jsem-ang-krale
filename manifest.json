@@ -1,16 +1,16 @@
 {
   "author": "Bohumil Hrabal",
   "edition": "beletrie",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-4ec9003",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-fc0e013",
   "languagecode": "cs",
   "modified": "2021-09-29T14:57:31.163Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Obsluhoval jsem anglického krále",
-  "revision": "4ec9003",
+  "revision": "fc0e013",
   "generatedAt": {
-    "date": "Thu Dec 02 2021 10:12:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638439952943
+    "date": "Sun May 08 2022 15:15:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652022955583
   },
   "documents": [
     {
@@ -22,26 +22,6 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "obsluhoval_jsem_anglickeho_krale_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Obsluhoval jsem anglického krále",
-      "file": "obsluhoval_jsem_anglickeho_krale_003.html",
-      "words": 6,
-      "chars": 45,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 1,
-      "prev": "obsluhoval_jsem_anglickeho_krale_002.html",
       "next": "obsluhoval_jsem_anglickeho_krale_005.html",
       "toc": [
         {
@@ -60,8 +40,8 @@
       "chars": 62948,
       "ideas": 7,
       "role": "chapter",
-      "order": 2,
-      "prev": "obsluhoval_jsem_anglickeho_krale_003.html",
+      "order": 1,
+      "prev": "obsluhoval_jsem_anglickeho_krale_002.html",
       "next": "obsluhoval_jsem_anglickeho_krale_006.html",
       "toc": [
         {
@@ -80,7 +60,7 @@
       "chars": 61922,
       "ideas": 8,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "obsluhoval_jsem_anglickeho_krale_005.html",
       "next": "obsluhoval_jsem_anglickeho_krale_007.html",
       "toc": [
@@ -100,7 +80,7 @@
       "chars": 78651,
       "ideas": 9,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "obsluhoval_jsem_anglickeho_krale_006.html",
       "next": "obsluhoval_jsem_anglickeho_krale_008.html",
       "toc": [
@@ -120,7 +100,7 @@
       "chars": 69314,
       "ideas": 10,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "obsluhoval_jsem_anglickeho_krale_007.html",
       "next": "obsluhoval_jsem_anglickeho_krale_009.html",
       "toc": [
@@ -140,7 +120,7 @@
       "chars": 105389,
       "ideas": 14,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "obsluhoval_jsem_anglickeho_krale_008.html",
       "next": "obsluhoval_jsem_anglickeho_krale_011.html",
       "toc": [
@@ -160,7 +140,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "obsluhoval_jsem_anglickeho_krale_009.html",
       "next": "colophon.html",
       "toc": [
@@ -176,9 +156,9 @@
     {
       "title": "Tiráž • Obsluhoval jsem anglického krále",
       "file": "colophon.html",
-      "words": 143,
-      "chars": 947,
-      "ideas": 19,
+      "words": 149,
+      "chars": 992,
+      "ideas": 22,
       "role": "colophon",
       "order": null,
       "prev": "obsluhoval_jsem_anglickeho_krale_011.html",
@@ -201,9 +181,9 @@
       "ideas": 74
     },
     "chapters": {
-      "words": 67524,
-      "chars": 378269,
-      "ideas": 51
+      "words": 67518,
+      "chars": 378224,
+      "ideas": 48
     }
   }
 }

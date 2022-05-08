@@ -4,6 +4,14 @@ title: Tiráž
 
 ***
 
+Obsluhoval jsem  
+anglického krále
+
+Bohumil Hrabal
+
+
+***
+
 Znění tohoto textu vychází z díla [Obsluhoval jsem anglického krále](https://search.mlp.cz/cz/titul/obsluhoval-jsem-anglickeho-krale/2575687/#book-content) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 2006. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 §

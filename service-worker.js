@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-4ec9003';
+const CACHE = 'cache-fc0e013';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./obsluhoval_jsem_anglickeho_krale_002.html","./obsluhoval_jsem_anglickeho_krale_003.html","./obsluhoval_jsem_anglickeho_krale_005.html","./obsluhoval_jsem_anglickeho_krale_006.html","./obsluhoval_jsem_anglickeho_krale_007.html","./obsluhoval_jsem_anglickeho_krale_008.html","./obsluhoval_jsem_anglickeho_krale_009.html","./obsluhoval_jsem_anglickeho_krale_011.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/kocka_fmt.png","./resources/obalka_obsluhoval_jsem__fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./obsluhoval_jsem_anglickeho_krale_002.html","./obsluhoval_jsem_anglickeho_krale_005.html","./obsluhoval_jsem_anglickeho_krale_006.html","./obsluhoval_jsem_anglickeho_krale_007.html","./obsluhoval_jsem_anglickeho_krale_008.html","./obsluhoval_jsem_anglickeho_krale_009.html","./obsluhoval_jsem_anglickeho_krale_011.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/kocka_fmt.png","./resources/obalka_obsluhoval_jsem__fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

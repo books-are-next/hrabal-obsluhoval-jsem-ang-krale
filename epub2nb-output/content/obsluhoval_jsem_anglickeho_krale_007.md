@@ -1,5 +1,6 @@
 ---
 title: Obsluhoval jsem anglického krále
+contentType: prose
 ---
 
 Dávejte pozor, co vám teďka řeknu.

@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Obsluhoval jsem anglického krále
@@ -13,7 +14,6 @@ meta:
   edition: beletrie
 readingOrder:
   - obsluhoval_jsem_anglickeho_krale_002.html
-  - obsluhoval_jsem_anglickeho_krale_003.html
   - obsluhoval_jsem_anglickeho_krale_005.html
   - obsluhoval_jsem_anglickeho_krale_006.html
   - obsluhoval_jsem_anglickeho_krale_007.html

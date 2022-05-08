@@ -1,5 +1,6 @@
 ---
 title: Hotel Tichota
+contentType: prose
 ---
 
 Dávejte pozor, co vám teďka řeknu.

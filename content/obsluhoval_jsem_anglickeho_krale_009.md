@@ -1,5 +1,6 @@
 ---
 title: Kterak jsem se stal milionářem
+contentType: prose
 ---
 
 Dávejte pozor, co vám teďka řeknu.

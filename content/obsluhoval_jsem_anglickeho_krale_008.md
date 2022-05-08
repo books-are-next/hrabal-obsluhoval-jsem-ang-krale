@@ -1,5 +1,6 @@
 ---
 title: "A\_hlavu jsem už nenašel"
+contentType: prose
 ---
 
 Dávejte pozor, co vám teďka řeknu.

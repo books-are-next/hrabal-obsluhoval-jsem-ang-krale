@@ -1,5 +1,6 @@
 ---
 title: Sklenice grenadýny
+contentType: prose
 ---
 
 Dávejte pozor, co vám teďka řeknu.

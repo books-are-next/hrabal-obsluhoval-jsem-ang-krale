@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - obsluhoval_jsem_anglickeho_krale_002.html
+  - promo.html
   - obsluhoval_jsem_anglickeho_krale_005.html
   - obsluhoval_jsem_anglickeho_krale_006.html
   - obsluhoval_jsem_anglickeho_krale_007.html

@@ -1,21 +1,33 @@
 {
-  "author": "Bohumil Hrabal",
-  "edition": "beletrie",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-fc0e013",
-  "languagecode": "cs",
-  "modified": "2021-09-29T14:57:31.163Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Obsluhoval jsem anglického krále",
-  "revision": "fc0e013",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-5b2b5ed",
+  "revision": "5b2b5ed",
+  "readingOrder": [
+    "promo.html",
+    "obsluhoval_jsem_anglickeho_krale_005.html",
+    "obsluhoval_jsem_anglickeho_krale_006.html",
+    "obsluhoval_jsem_anglickeho_krale_007.html",
+    "obsluhoval_jsem_anglickeho_krale_008.html",
+    "obsluhoval_jsem_anglickeho_krale_009.html",
+    "obsluhoval_jsem_anglickeho_krale_011.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 08 2022 15:15:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652022955583
+    "date": "Thu May 12 2022 10:44:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352281274
   },
   "documents": [
     {
-      "title": "Obsluhoval jsem anglického krále",
-      "file": "obsluhoval_jsem_anglickeho_krale_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +35,17 @@
       "order": 0,
       "prev": null,
       "next": "obsluhoval_jsem_anglickeho_krale_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Sklenice grenadýny • Obsluhoval jsem anglického krále",
+      "title": "Sklenice grenadýny",
       "file": "obsluhoval_jsem_anglickeho_krale_005.html",
       "words": 11555,
       "chars": 62948,
       "ideas": 7,
       "role": "chapter",
       "order": 1,
-      "prev": "obsluhoval_jsem_anglickeho_krale_002.html",
+      "prev": "promo.html",
       "next": "obsluhoval_jsem_anglickeho_krale_006.html",
       "toc": [
         {
@@ -54,7 +58,7 @@
       ]
     },
     {
-      "title": "Hotel Tichota • Obsluhoval jsem anglického krále",
+      "title": "Hotel Tichota",
       "file": "obsluhoval_jsem_anglickeho_krale_006.html",
       "words": 10925,
       "chars": 61922,
@@ -74,7 +78,7 @@
       ]
     },
     {
-      "title": "Obsluhoval jsem anglického krále • Obsluhoval jsem anglického krále",
+      "title": "Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_007.html",
       "words": 14117,
       "chars": 78651,
@@ -94,7 +98,7 @@
       ]
     },
     {
-      "title": "A hlavu jsem už nenašel • Obsluhoval jsem anglického krále",
+      "title": "A hlavu jsem už nenašel",
       "file": "obsluhoval_jsem_anglickeho_krale_008.html",
       "words": 12245,
       "chars": 69314,
@@ -114,7 +118,7 @@
       ]
     },
     {
-      "title": "Kterak jsem se stal milionářem • Obsluhoval jsem anglického krále",
+      "title": "Kterak jsem se stal milionářem",
       "file": "obsluhoval_jsem_anglickeho_krale_009.html",
       "words": 18676,
       "chars": 105389,
@@ -154,11 +158,11 @@
       ]
     },
     {
-      "title": "Tiráž • Obsluhoval jsem anglického krále",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 992,
-      "ideas": 22,
+      "words": 128,
+      "chars": 839,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "obsluhoval_jsem_anglickeho_krale_011.html",
@@ -176,9 +180,9 @@
   ],
   "totals": {
     "all": {
-      "words": 67675,
-      "chars": 379273,
-      "ideas": 74
+      "words": 67654,
+      "chars": 379120,
+      "ideas": 67
     },
     "chapters": {
       "words": 67518,

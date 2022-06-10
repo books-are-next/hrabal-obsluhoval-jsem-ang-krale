@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-b6a24b7",
-  "revision": "b6a24b7",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-5be52fc",
+  "revision": "5be52fc",
   "readingOrder": [
     "promo.html",
     "obsluhoval_jsem_anglickeho_krale_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:16:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870618521
+    "date": "Fri Jun 10 2022 17:50:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883429669
   },
   "documents": [
     {
@@ -140,9 +140,9 @@
     {
       "title": "Obsluhoval jsem anglického krále",
       "file": "obsluhoval_jsem_anglickeho_krale_011.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 6,
       "prev": "obsluhoval_jsem_anglickeho_krale_009.html",
@@ -160,9 +160,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 122,
-      "chars": 803,
-      "ideas": 14,
+      "words": 90,
+      "chars": 617,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "obsluhoval_jsem_anglickeho_krale_011.html",
@@ -180,14 +180,14 @@
   ],
   "totals": {
     "all": {
-      "words": 67648,
-      "chars": 379084,
-      "ideas": 66
+      "words": 67617,
+      "chars": 378898,
+      "ideas": 60
     },
     "chapters": {
-      "words": 67518,
+      "words": 67519,
       "chars": 378224,
-      "ideas": 48
+      "ideas": 49
     }
   }
 }

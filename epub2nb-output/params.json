@@ -8,7 +8,8 @@
       "modified": "2021-09-29T14:57:31.163Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2483-2"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -31,108 +32,114 @@
     },
     "structure": [
       {
-        "filename": "obsluhoval_jsem_anglickeho_krale_001.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_002.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "inToc": false,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_003.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_004.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_005.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Sklenice grenadýny",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_006.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Hotel Tichota",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_007.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Obsluhoval jsem anglického krále",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_008.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "inToc": true,
-        "title": "A hlavu jsem už nenašel",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_009.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Kterak jsem se stal milionářem",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_010.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_010.xhtml",
-        "id": 9,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "obsluhoval_jsem_anglickeho_krale_011.md",
-        "xhtml": "obsluhoval_jsem_anglickeho_krale_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "inToc": false,
-        "listType": "plain",
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_001.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_002.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "inToc": false,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_003.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_004.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_005.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Sklenice grenadýny",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_006.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Hotel Tichota",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_007.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Obsluhoval jsem anglického krále",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_008.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "inToc": true,
+            "title": "A hlavu jsem už nenašel",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_009.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Kterak jsem se stal milionářem",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_010.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_010.xhtml",
+            "id": 9,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "obsluhoval_jsem_anglickeho_krale_011.md",
+            "xhtml": "obsluhoval_jsem_anglickeho_krale_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "inToc": false,
+            "listType": "plain",
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -273,6 +280,6 @@
       "user": "books-are-next",
       "repo": "hrabal-obsluhoval-jsem-ang-krale"
     },
-    "generatedAt": 1654948382592
+    "generatedAt": 1655155751896
   }
 }

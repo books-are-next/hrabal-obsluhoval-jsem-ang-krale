@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2483-2
 readingOrder:
   - promo.html
   - obsluhoval_jsem_anglickeho_krale_005.html
@@ -22,16 +23,19 @@ readingOrder:
   - obsluhoval_jsem_anglickeho_krale_011.html
   - colophon.html
 tocBase:
-  - link: obsluhoval_jsem_anglickeho_krale_005.html
-    title: Sklenice grenadýny
-  - link: obsluhoval_jsem_anglickeho_krale_006.html
-    title: Hotel Tichota
-  - link: obsluhoval_jsem_anglickeho_krale_007.html
-    title: Obsluhoval jsem anglického krále
-  - link: obsluhoval_jsem_anglickeho_krale_008.html
-    title: A hlavu jsem už nenašel
-  - link: obsluhoval_jsem_anglickeho_krale_009.html
-    title: Kterak jsem se stal milionářem
+  - id: section-1
+    children:
+      - link: obsluhoval_jsem_anglickeho_krale_005.html
+        title: Sklenice grenadýny
+      - link: obsluhoval_jsem_anglickeho_krale_006.html
+        title: Hotel Tichota
+      - link: obsluhoval_jsem_anglickeho_krale_007.html
+        title: Obsluhoval jsem anglického krále
+      - link: obsluhoval_jsem_anglickeho_krale_008.html
+        title: A hlavu jsem už nenašel
+      - link: obsluhoval_jsem_anglickeho_krale_009.html
+        title: Kterak jsem se stal milionářem
+    isSection: true
 static:
   - style
   - scripts

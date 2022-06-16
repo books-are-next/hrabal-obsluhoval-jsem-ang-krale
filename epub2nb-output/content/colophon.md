@@ -2,8 +2,8 @@
 title: Tiráž
 ---
 
-Bohumil Hrabal    
-Obsluhoval jsem anglického krále  
+**Bohumil Hrabal    
+Obsluhoval jsem anglického krále**  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  

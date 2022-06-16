@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2483-2
+  contentType: prose
 readingOrder:
   - promo.html
   - obsluhoval_jsem_anglickeho_krale_005.html

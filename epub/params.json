@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2483-2"
+      "isbn": "978-80-274-2483-2",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",

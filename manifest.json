@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-e99a5fa",
-  "revision": "e99a5fa",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-9f88832",
+  "revision": "9f88832",
   "readingOrder": [
     "promo.html",
     "obsluhoval_jsem_anglickeho_krale_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:50:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272217579
+    "date": "Thu Jun 16 2022 07:29:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364575978
   },
   "documents": [
     {

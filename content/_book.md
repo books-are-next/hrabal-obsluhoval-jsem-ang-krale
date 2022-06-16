@@ -4,12 +4,12 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Obsluhoval jsem anglického krále
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Bohumil Hrabal
   publisher: Městská knihovna v Praze
   modified: '2021-09-29T14:57:31.163Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2483-2
@@ -37,6 +37,7 @@ tocBase:
       - link: obsluhoval_jsem_anglickeho_krale_009.html
         title: Kterak jsem se stal milionářem
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

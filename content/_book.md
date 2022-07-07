@@ -22,7 +22,7 @@ readingOrder:
   - obsluhoval_jsem_anglickeho_krale_008.html
   - obsluhoval_jsem_anglickeho_krale_009.html
   - obsluhoval_jsem_anglickeho_krale_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

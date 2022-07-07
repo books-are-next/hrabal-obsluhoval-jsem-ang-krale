@@ -61,7 +61,7 @@
             "filename": "obsluhoval_jsem_anglickeho_krale_003.md",
             "xhtml": "obsluhoval_jsem_anglickeho_krale_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -70,7 +70,7 @@
             "filename": "obsluhoval_jsem_anglickeho_krale_004.md",
             "xhtml": "obsluhoval_jsem_anglickeho_krale_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -129,7 +129,7 @@
             "filename": "obsluhoval_jsem_anglickeho_krale_010.md",
             "xhtml": "obsluhoval_jsem_anglickeho_krale_010.xhtml",
             "id": 9,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -284,6 +284,6 @@
       "user": "books-are-next",
       "repo": "hrabal-obsluhoval-jsem-ang-krale"
     },
-    "generatedAt": 1656081643301
+    "generatedAt": 1657181948411
   }
 }

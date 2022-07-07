@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-b8cb7ab",
-  "revision": "b8cb7ab",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-ddf40f0",
+  "revision": "ddf40f0",
   "readingOrder": [
     "promo.html",
     "obsluhoval_jsem_anglickeho_krale_005.html",
@@ -18,11 +18,11 @@
     "obsluhoval_jsem_anglickeho_krale_008.html",
     "obsluhoval_jsem_anglickeho_krale_009.html",
     "obsluhoval_jsem_anglickeho_krale_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 24 2022 14:42:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656081728189
+    "date": "Thu Jul 07 2022 08:27:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182446282
   },
   "documents": [
     {
@@ -111,7 +111,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A hlavu jsem už nenašel",
+          "name": "A hlavu jsem už nenašel",
           "id": null,
           "children": []
         }
@@ -131,7 +131,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kterak jsem se stal milionářem",
+          "name": "Kterak jsem se stal milionářem",
           "id": null,
           "children": []
         }
@@ -146,7 +146,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "obsluhoval_jsem_anglickeho_krale_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -159,11 +159,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 141,
-      "chars": 947,
+      "chars": 946,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "obsluhoval_jsem_anglickeho_krale_011.html",
       "next": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 67668,
-      "chars": 379228,
+      "chars": 379227,
       "ideas": 69
     },
     "chapters": {

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-aa36297",
-  "revision": "aa36297",
+  "identifier": "hrabal-obsluhoval-jsem-anglickeho-krale-138700d",
+  "revision": "138700d",
   "readingOrder": [
     "promo.html",
     "obsluhoval_jsem_anglickeho_krale_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:58:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151128252
+    "date": "Mon Oct 10 2022 15:50:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417031995
   },
   "documents": [
     {
@@ -161,7 +161,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 141,
-      "chars": 947,
+      "chars": 948,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 67668,
-      "chars": 379228,
+      "chars": 379229,
       "ideas": 69
     },
     "chapters": {
